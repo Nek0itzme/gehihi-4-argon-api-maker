@@ -24,7 +24,7 @@ Gửi lời cảm ơn chân thành tới anh **Nguyễn Tiến Thành** vì đã
 2. **Hỗ trợ model suy luận sâu `gemini-4-argon`:**
    * Tích hợp cơ chế reasoning và hỗ trợ các mức Effort (`Low`, `Medium`, `High`) của Claude Code.
 
-3. **Script cài đặt 1-click cho Windows (`Setup_Claude_Gemini.bat`):**
+3. **Script cài đặt 1-click cho Windows (`Setup_VS_Code.bat`):**
    * Nhập cookie an toàn, không lo bị cmd cắt ngắn chuỗi cookie dài hàng nghìn ký tự.
    * Menu chọn model và mức độ suy nghĩ trực quan ngay trong terminal.
    * Tự động tạo key Anthropic mẫu (`sk-ant-api03-...`).
