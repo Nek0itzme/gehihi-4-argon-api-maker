@@ -18,7 +18,7 @@ Gửi lời cảm ơn chân thành tới anh **Nguyễn Tiến Thành** vì đã
 ## Những điểm bổ sung trong bản này
 
 1. **Hỗ trợ trọn vẹn Claude Code trên VS Code:**
-   * Tự động ánh xạ các tên gọi model của Claude (`claude-3-7-sonnet`, `claude-3-opus`, `claude-3-5-haiku`) sang các model tương ứng của Gemini trên backend mà không bị lỗi `unsupported model`.
+   * Tự động ánh xạ (mapping / reflecting) các tên gọi model của Claude (`claude-3-7-sonnet`, `claude-3-opus`, `claude-3-5-haiku`) sang các model tương ứng của Gemini trên backend mà không bị lỗi `unsupported model`.
    * Cung cấp endpoint `/claude/v1/messages` tương thích hoàn toàn với Claude Code CLI và VS Code extension.
 
 2. **Hỗ trợ model suy luận sâu `gemini-4-argon`:**
