@@ -1,6 +1,6 @@
 # Gemini Web To API - Claude Code & VS Code Edition
 
-Dự án này là bản mở rộng từ mã nguồn mở [gemini-web-to-api](https://github.com/ntthanh2603/gemini-web-to-api) của tác giả **Nguyễn Tiến Thành ([@ntthanh2603](https://github.com/ntthanh2603))**. 
+Dự án này là bản mở rộng từ mã nguồn mở [gemini-web-to-api](https://github.com/ntthanh2603/gemini-web-to-api) của tác giả **Nguyễn Tuấn Thành ([@ntthanh2603](https://github.com/ntthanh2603))**. 
 
 Bản fork/mở rộng này bổ sung bộ công cụ cài đặt tự động cho **Claude Code** trên **VS Code**, hỗ trợ đầy đủ model lý luận sâu **`gemini-4-argon`** cùng các model Gemini khác (`gemini-3.8-flash`, `gemini-3.1-pro`, `gemini-3.5-flash-lite`) hoàn toàn miễn phí thông qua Cookies tài khoản Gemini Web cá nhân.
 
